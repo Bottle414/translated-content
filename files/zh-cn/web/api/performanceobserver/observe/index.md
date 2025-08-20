@@ -1,6 +1,5 @@
 ---
-title: "PerformanceObserver: observe() method"
-short-title: observe()
+title: PerformanceObserver：observe() 方法
 slug: Web/API/PerformanceObserver/observe
 ---
 
